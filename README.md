@@ -28,5 +28,5 @@
 * Check a puzzle placement with invalid placement coordinate: POST request to /api/check
 * Check a puzzle placement with invalid placement value: POST request to /api/check
 
-# To initialize project run ``npm start``
+To initialize project run ``npm start``
 
